@@ -1,0 +1,1 @@
+/home/zivku/git/sam9x60_hobby_202404/buildroot-mchp/output/host/bin/arm-buildroot-linux-gnueabi-g++     CMakeFiles/button_control_I2C_setting_Fan.dir/src/button_control_I2C_setting_Fan.cpp.o  -o bin/button_control_I2C_setting_Fan  -lpthread -li2c 

@@ -1,0 +1,1 @@
+/home/zivku/git/sam9x60_hobby_202404/buildroot-mchp/output/host/bin/arm-buildroot-linux-gnueabi-g++     CMakeFiles/client_MODBUS_TCP.dir/src/client_MODBUS_TCP.cpp.o  -o bin/client_MODBUS_TCP  -lmodbus -lpthread -li2c 

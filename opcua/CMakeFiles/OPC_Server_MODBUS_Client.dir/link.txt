@@ -1,0 +1,1 @@
+/home/zivku/git/sam9x60_hobby_202404/buildroot-mchp/output/host/bin/arm-buildroot-linux-gnueabi-g++     CMakeFiles/OPC_Server_MODBUS_Client.dir/src/OPC_Server_MODBUS_Client.cpp.o CMakeFiles/OPC_Server_MODBUS_Client.dir/open62541/build/open62541.c.o  -o bin/OPC_Server_MODBUS_Client  -lmodbus -lpthread -li2c 

@@ -1,0 +1,7 @@
+/home/zivku/git/sam9x60_hobby_202404/opcua/CMakeFiles/rebuild_cache.dir
+/home/zivku/git/sam9x60_hobby_202404/opcua/CMakeFiles/OPC_Server_MODBUS_Client.dir
+/home/zivku/git/sam9x60_hobby_202404/opcua/CMakeFiles/edit_cache.dir
+/home/zivku/git/sam9x60_hobby_202404/opcua/CMakeFiles/client_MODBUS_TCP.dir
+/home/zivku/git/sam9x60_hobby_202404/opcua/CMakeFiles/server_MODBUS_TCP_with_Fan_control.dir
+/home/zivku/git/sam9x60_hobby_202404/opcua/CMakeFiles/button_control_I2C_setting_Fan.dir
+/home/zivku/git/sam9x60_hobby_202404/opcua/CMakeFiles/gpio_control.dir

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zivku/git/sam9x60_hobby_202404/opcua/src/button_control_I2C_setting_Fan.cpp
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+fcntl.h
+-
+string.h
+-
+errno.h
+-
+stdint.h
+-
+inttypes.h
+-
+linux/gpio.h
+-
+linux/input.h
+-
+sys/ioctl.h
+-
+sys/stat.h
+-
+pthread.h
+-
+linux/i2c.h
+-
+linux/i2c-dev.h
+-
+i2c/smbus.h
+-
+

@@ -1,0 +1,1 @@
+/home/zivku/git/sam9x60_hobby_202404/buildroot-mchp/output/host/bin/arm-buildroot-linux-gnueabi-g++     CMakeFiles/gpio_control.dir/src/gpio_control.cpp.o  -o bin/gpio_control  -lpthread 
